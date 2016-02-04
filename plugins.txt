@@ -1,0 +1,7 @@
+cvs:2.12
+embeddable-build-status:1.8
+external-monitor-job:1.4
+ghprb:1.30
+rbenv:0.0.16
+slack:1.8.1
+xvfb:1.1.2
