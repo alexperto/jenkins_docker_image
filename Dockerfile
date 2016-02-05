@@ -1,4 +1,4 @@
-FROM jenkins
+FROM jenkins:1.642.1
 
 MAINTAINER alexperto
 
